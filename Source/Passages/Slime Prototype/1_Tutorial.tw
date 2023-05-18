@@ -1,27 +1,32 @@
-:: Tutorial
-Hello gamer and welcome to Shattered Petals, a silly sinful dating sim.
+:: Start
+Hello gamer and welcome to Shattered Petals, a sinful silly dating game.
+This game looks reflects on our relationship with pleasure, vice, and selfworth in playful, but sometimes emotional (the intro) and personal ways.
+This game asks you to reflect on these themes directly through journal prompts.
 
-This game focuses on our relations to pleasure, vices, and selfworth, and directly asks you, the player, to personally reflect on these themes.
-Although we try to be gentle and lighthearted about it, this game is designed to target the feels.
-Oh and also it's pretty horny...
+If you are ready, click the blue text to forward the story.
 
-If you are ready, click the prompt below to proceed...
+Take me to the [[Intro]]
 
-[[Tutorial 2 | Begin your demon dating journey]]
+:: Intro
+Before we can provide our lovely demon dating game to you, we must ask you a favor.
+You, dear gamer, must imagine the inciting incident for our story, because we did not write it yet.
 
-:: Tutorial 2
-Before you get to experience our experience we lovingly wrote for you, we have a favor to ask of you, the gamer.
-We need you to imagine the gripping intro to our game (because we have not written it yet) 
+Imagine a striking locale, your character running away from a mysterious and evocative, but vague and relatable situation.
+Firm in your desire to escape the troubles of your life, you run away for hours, eventually finding a mirror.
+The mirror shows your reflection, something you may have a complicated relationship with.
+The mirror shows your ties to your undesired past and your complicated present, and perhaps an uncertain future.
+Your emotions fill you, and you shatter the mirror. A thousand tiny, broken reflections look up at you. 
+Imagine they stick with you somehow, maybe you collect them in a way that feels completely justified and not silly.
+The symbolism is sublte and evocative. The word choice creates an air of authority, but is perfectly at your reading level.
 
-Our story would begin with a mysterious and emotional escape from some unexplained and broadly relatable situation.
-Somehow, you would encounter a mirror, a representation of yourself and that complex relationship. Vague so as to be relatable.
-In your bad mood caused by your mysterious and emotional escape, you break the mirror, shattering the glass: a thousand broken reflections.
-Imagine the symbolism being subtle but evocative. The word choice is perfectly at your reading level.
+[[Intro 2 | "Wow! The composition is incredible. Great job, Varick and Monica," you say out loud]]
 
-[[Tutorial 3 | "I'm imaginging it perfectly. Great work, Monica and Varick," you say to yourself.]]
+:: Intro 2
+Somehow, perhaps from breaking the mirror, you find yourself escaping into a strange and seductive world filled with monsters and demons.
+The creatures are both intimidating and alluring. Walking manifestations of desire, vice, pleasure, and danger are all around you.
+Lost, alone, and desperate for an escape, you feel twistedly blessed, as these monsters and demons seem like the best way to 
+kiss, cuddle, (and maybe even bang) your problems away.
 
-:: Tutorial 3
-Somehow, perhaps becaues you shattered the mirror, your escape takes you into a strange and seductive world full of monsters and demons.
-Creatures that are both intimidating and alluring. A sense of adventures and danger aroused in you.
-This is exactly what you were looking for in your escape, a space to kiss, cuddle, (and maybe bang) your problems away.
+For the sake of our prototype, one gluttonous creature in particular catches your eye...
 
+[[Slime Intro | Who is that slime over there??]]
